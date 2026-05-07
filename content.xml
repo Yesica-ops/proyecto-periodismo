@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507184044YTXFNP</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507184044H6XOVD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La Voz del Cole: Nuestro Periódico y Radio Digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Conviértete en reportero, diseña noticias increíbles y graba tus propios podcasts.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Yésica Aragüez Soler</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>¡Bienvenidos a la Redacción!
+En este proyecto nos vamos a convertir en periodistas por unas semanas. El objetivo es que nuestra clase tenga su propio periódico digital y un programa de radio. No solo vamos a escribir, sino que vamos a crear contenido real que otros podrán leer y escuchar.
+
+¿Qué vamos a hacer exactamente?
+
+Diseñar un periódico en Canva: Aprenderemos a maquetar noticias y a elegir fotos para que nuestro diario quede espectacular.
+
+Grabar podcast con Audacity: Usaremos los micrófonos para grabar entrevistas y noticias con nuestra voz, ¡como en una radio de verdad!
+
+Investigar en la red: Buscaremos información de forma segura y aprenderemos a movernos por internet respetando el trabajo de los demás.
+
+Trabajaremos en equipos, compartiremos ideas y usaremos la tecnología para contar lo que pasa a nuestro alrededor. ¡Preparad vuestros Chromebooks, que empezamos!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778172030907</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movpps2a-gukjqma23</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2a-gukjqma23</odePageId>
+      <odeBlockId>block-1778102785501-sr4zw4cu5</odeBlockId>
+      <blockName>¡Bienvenidos!</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2a-gukjqma23</odePageId>
+          <odeBlockId>block-1778102785501-sr4zw4cu5</odeBlockId>
+          <odeIdeviceId>idevice-1778102785498-rxul8kkkn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎙️ ¡Bienvenidos a la Redacción!<br />En este proyecto nos vamos a convertir en periodistas por unas semanas. El objetivo es que nuestra clase tenga su propio periódico digital y un programa de radio. No solo vamos a escribir, sino que vamos a crear contenido real que otros podrán leer y escuchar.</p>
+<p>🚀 ¿Qué vamos a hacer?<br />Para lograr nuestro reto, pasaremos por tres grandes etapas:</p>
+<p>Diseñar un periódico en Canva: Aprenderemos a maquetar noticias y a elegir fotos para que nuestro diario quede espectacular.<br />Grabar podcast con Audacity: Usaremos los micrófonos para grabar entrevistas y noticias con nuestra voz, ¡como en una radio de verdad!<br />Investigar en la red: Buscaremos información de forma segura y aprenderemos a movernos por internet respetando el trabajo de los demás.<br />Trabajaremos en equipos, compartiremos ideas y usaremos nuestros Chromebooks para contar lo que pasa a nuestro alrededor.</p>
+<p>¡Preparad vuestras libretas, que empezamos!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778102785498-rxul8kkkn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎙️ ¡Bienvenidos a la Redacción!<br />En este proyecto nos vamos a convertir en periodistas por unas semanas. El objetivo es que nuestra clase tenga su propio periódico digital y un programa de radio. No solo vamos a escribir, sino que vamos a crear contenido real que otros podrán leer y escuchar.</p>\n<p>🚀 ¿Qué vamos a hacer?<br />Para lograr nuestro reto, pasaremos por tres grandes etapas:</p>\n<p>Diseñar un periódico en Canva: Aprenderemos a maquetar noticias y a elegir fotos para que nuestro diario quede espectacular.<br />Grabar podcast con Audacity: Usaremos los micrófonos para grabar entrevistas y noticias con nuestra voz, ¡como en una radio de verdad!<br />Investigar en la red: Buscaremos información de forma segura y aprenderemos a movernos por internet respetando el trabajo de los demás.<br />Trabajaremos en equipos, compartiremos ideas y usaremos nuestros Chromebooks para contar lo que pasa a nuestro alrededor.</p>\n<p>¡Preparad vuestras libretas, que empezamos!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2e-mmzmhdab6</odePageId>
+  <odeParentPageId>page-movpps2a-gukjqma23</odeParentPageId>
+  <pageName>Seguridad Digital.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2e-mmzmhdab6</odePageId>
+      <odeBlockId>block-1778103172912-pa6co7wq0</odeBlockId>
+      <blockName>Seguridad Digital</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2e-mmzmhdab6</odePageId>
+          <odeBlockId>block-1778103172912-pa6co7wq0</odeBlockId>
+          <odeIdeviceId>idevice-1778103172909-nqnl2l4s6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Navega con Seguridad y Respeto<br />Para ser buenos periodistas, lo primero es saber cómo movernos por internet de forma segura. En este proyecto seguiremos tres reglas de oro:</p>
+<p>Protege tus datos: No compartiremos contraseñas, direcciones ni teléfonos en nuestro periódico digital.<br />Respeta la imagen: Si vamos a publicar una foto donde sale alguien de la clase, siempre pediremos permiso primero.<br />Derechos de autor: No usaremos cualquier foto de Google. Aprenderemos a usar imágenes libres o a citar al autor si usamos su trabajo.<br />Recuerda: Tu identidad digital es tu huella en internet. ¡Cuídala!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778103172909-nqnl2l4s6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Navega con Seguridad y Respeto<br />Para ser buenos periodistas, lo primero es saber cómo movernos por internet de forma segura. En este proyecto seguiremos tres reglas de oro:</p>\n<p>Protege tus datos: No compartiremos contraseñas, direcciones ni teléfonos en nuestro periódico digital.<br />Respeta la imagen: Si vamos a publicar una foto donde sale alguien de la clase, siempre pediremos permiso primero.<br />Derechos de autor: No usaremos cualquier foto de Google. Aprenderemos a usar imágenes libres o a citar al autor si usamos su trabajo.<br />Recuerda: Tu identidad digital es tu huella en internet. ¡Cuídala!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2g-w5uobf61h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EL RETO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL RETO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL RETO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2g-w5uobf61h</odePageId>
+      <odeBlockId>block-1778103276980-8b0grykix</odeBlockId>
+      <blockName>El reto</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2g-w5uobf61h</odePageId>
+          <odeBlockId>block-1778103276980-8b0grykix</odeBlockId>
+          <odeIdeviceId>idevice-1778103276977-tvqmezxl6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📝 Nuestra Misión:<strong> ¡Periodistas en acción!</strong><br />Vuestro desafío en este proyecto consiste en crear dos productos de comunicación reales:</p>
+<p>El Periódico Digital: En grupos de 4- 5, diseñaréis un periódico usando Canva. Debe tener al menos tres secciones y algunas más: Noticias del Cole, Deportes y Cultura/Ocio...<br />El Podcast Radiofónico: Grabaremos una entrevista o una noticia de actualidad usando Audacity. Aprenderemos a editar el sonido, poner música de fondo y exportarlo.<br />Una vez terminados, los trabajos se expondrán en nuestra clase y también visitaremos otras clases del centro para que el resto de compañeros puedan ver nuestro periódico y escuchar los podcast.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778103276977-tvqmezxl6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📝 Nuestra Misión:<strong> ¡Periodistas en acción!</strong><br />Vuestro desafío en este proyecto consiste en crear dos productos de comunicación reales:</p>\n<p>El Periódico Digital: En grupos de 4- 5, diseñaréis un periódico usando Canva. Debe tener al menos tres secciones y algunas más: Noticias del Cole, Deportes y Cultura/Ocio...<br />El Podcast Radiofónico: Grabaremos una entrevista o una noticia de actualidad usando Audacity. Aprenderemos a editar el sonido, poner música de fondo y exportarlo.<br />Una vez terminados, los trabajos se expondrán en nuestra clase y también visitaremos otras clases del centro para que el resto de compañeros puedan ver nuestro periódico y escuchar los podcast.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2i-jyuwezubf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Investigamos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2i-jyuwezubf</odePageId>
+      <odeBlockId>block-1778103654658-m2l1lsamr</odeBlockId>
+      <blockName>Investigamos</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2i-jyuwezubf</odePageId>
+          <odeBlockId>block-1778103654658-m2l1lsamr</odeBlockId>
+          <odeIdeviceId>idevice-1778103654655-1vznmi4vn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🔍 Espacio de Investigación<br />Para ayudarlos a crear vuestros contenidos, aquí tenéis una selección de recursos donde encontraréis inspiración, imágenes libres de derechos y trucos para usar Canva y Audacity.</p>
+<p><a href="https://padlet.com/yesicaarso/recursos-para-nuestro-periodico-y-radio-aokt2hafpf1wx5cy" target="_blank" title="" rel="noopener">"Pulsa aquí para ver mis recursos Padlet" </a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA-W3L34AA41_W3QCjA==" target="_blank" title="" rel="noopener">"Pulsa aquí para ver mis recursos Symbaloo"</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778103654655-1vznmi4vn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🔍 Espacio de Investigación<br />Para ayudarlos a crear vuestros contenidos, aquí tenéis una selección de recursos donde encontraréis inspiración, imágenes libres de derechos y trucos para usar Canva y Audacity.</p>\n<p><a href=\"https://padlet.com/yesicaarso/recursos-para-nuestro-periodico-y-radio-aokt2hafpf1wx5cy\" target=\"_blank\" title=\"\" rel=\"noopener\">\"Pulsa aquí para ver mis recursos Padlet\" </a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA-W3L34AA41_W3QCjA==\" target=\"_blank\" title=\"\" rel=\"noopener\">\"Pulsa aquí para ver mis recursos Symbaloo\"</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movpps2i-jyuwezubf</odePageId>
+      <odeBlockId>block-1778171068160-4krqdglyp</odeBlockId>
+      <blockName>Padlet y Symbaloo</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2i-jyuwezubf</odePageId>
+          <odeBlockId>block-1778171068160-4krqdglyp</odeBlockId>
+          <odeIdeviceId>idevice-1778171068155-lez5f84h5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778171068155-lez5f84h5" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182654.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182654.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778171068155-lez5f84h5" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182619.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182619.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171068155-lez5f84h5","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182654.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182654.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182619.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 182619.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2l-6a71c4j2r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Plan temporal</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;Línea Temporal&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Plan temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2l-6a71c4j2r</odePageId>
+      <odeBlockId>block-1778170778004-r55lmd040</odeBlockId>
+      <blockName>Plan de trabajo</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2l-6a71c4j2r</odePageId>
+          <odeBlockId>block-1778170778004-r55lmd040</odeBlockId>
+          <odeIdeviceId>idevice-1778170778003-tf6793elt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📅 Nuestro Plan de Trabajo<br />Para que nuestro periódico y podcast estén listos a tiempo, seguiremos este calendario de redacción. Es importante cumplir con los plazos para que la edición final sea un éxito:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170778003-tf6793elt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📅 Nuestro Plan de Trabajo<br />Para que nuestro periódico y podcast estén listos a tiempo, seguiremos este calendario de redacción. Es importante cumplir con los plazos para que la edición final sea un éxito:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movpps2l-6a71c4j2r</odePageId>
+      <odeBlockId>block-1778105840621-xn3c8lab3</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2l-6a71c4j2r</odePageId>
+          <odeBlockId>block-1778105840621-xn3c8lab3</odeBlockId>
+          <odeIdeviceId>idevice-1778105840621-vlgnywamu</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778105840621-vlgnywamu" title="" href="{{context_path}}/content/resources/Línea del tiempo proyecto periódico digital.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Línea del tiempo proyecto periódico digital.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778105840621-vlgnywamu","img_0":{"img":"blob:app://localhost/571dfbab-5441-465c-8380-e5d4f740d18d","thumbnail":"blob:app://localhost/571dfbab-5441-465c-8380-e5d4f740d18d","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2m-rj4tlee1t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2m-rj4tlee1t</odePageId>
+      <odeBlockId>block-1778104511218-8msjsemyu</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2m-rj4tlee1t</odePageId>
+          <odeBlockId>block-1778104511218-8msjsemyu</odeBlockId>
+          <odeIdeviceId>idevice-1778104511217-psdizcvx0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📊 ¿Cómo vamos a evaluar este proyecto?<br />Para que sepáis qué vamos a tener en cuenta al poner la nota, usaremos una Rúbrica de Evaluación. Los puntos principales serán:</p>
+<p>Trabajo en equipo: ¿Habéis colaborado todos en el grupo?<br />Calidad del Periódico (Canva): ¿Están bien redactadas las noticias y el diseño es atractivo?<br />Calidad del Podcast (Audacity): ¿Se escucha bien y habéis usado música de forma adecuada?<br />Originalidad: ¡Sorprendednos con vuestras entrevistas y noticias!</p>
+<p>Con este instrumento valoro: el periódico diseñado en Canva y los podcast grabados con Audacity. Me fijo en la calidad de los textos, la creatividad en el diseño, que la locución sea clara y que hayan usado las herramientas digitales de forma correcta. Aplicaré la rúbrica al terminar el proyecto.</p>
+<p>Además rellenaréis una Diana de Autoevaluación Grupal marcando vuestro nivel de satisfación.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104511217-psdizcvx0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📊 ¿Cómo vamos a evaluar este proyecto?<br />Para que sepáis qué vamos a tener en cuenta al poner la nota, usaremos una Rúbrica de Evaluación. Los puntos principales serán:</p>\n<p>Trabajo en equipo: ¿Habéis colaborado todos en el grupo?<br />Calidad del Periódico (Canva): ¿Están bien redactadas las noticias y el diseño es atractivo?<br />Calidad del Podcast (Audacity): ¿Se escucha bien y habéis usado música de forma adecuada?<br />Originalidad: ¡Sorprendednos con vuestras entrevistas y noticias!</p>\n<p>Con este instrumento valoro: el periódico diseñado en Canva y los podcast grabados con Audacity. Me fijo en la calidad de los textos, la creatividad en el diseño, que la locución sea clara y que hayan usado las herramientas digitales de forma correcta. Aplicaré la rúbrica al terminar el proyecto.</p>\n<p>Además rellenaréis una Diana de Autoevaluación Grupal marcando vuestro nivel de satisfación.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movpps2m-rj4tlee1t</odePageId>
+      <odeBlockId>block-1778106127414-wjv2sv7sc</odeBlockId>
+      <blockName>EVALUACIÓN</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2m-rj4tlee1t</odePageId>
+          <odeBlockId>block-1778106127414-wjv2sv7sc</odeBlockId>
+          <odeIdeviceId>idevice-1778106127413-1pxae9dsd</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778106127413-1pxae9dsd" title="" href="{{context_path}}/content/resources/rúbrica de proyectol.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/rúbrica de proyectol.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778106127413-1pxae9dsd" title="" href="{{context_path}}/content/resources/_DIANA DE EVALUACIÓN “.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/_DIANA DE EVALUACIÓN “.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778106127413-1pxae9dsd","img_2":{"img":"{{context_path}}/content/resources/rúbrica de proyectol.png","thumbnail":"{{context_path}}/content/resources/rúbrica de proyectol.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/_DIANA DE EVALUACIÓN “.png","thumbnail":"{{context_path}}/content/resources/_DIANA DE EVALUACIÓN “.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2o-3jsnatimo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2o-3jsnatimo</odePageId>
+      <odeBlockId>block-1778106919228-l8kjsktym</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2o-3jsnatimo</odePageId>
+          <odeBlockId>block-1778106919228-l8kjsktym</odeBlockId>
+          <odeIdeviceId>idevice-1778106919226-v11pd822m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📋 Relación de Tareas y Criterios de Evaluación<br />Tarea del Alumno y Criterio de Evaluación Asociado<br /><strong>Búsqueda de información</strong><br />Crit. 1.2. Localizar, seleccionar y contrastar información de distintas fuentes.<br /><strong>Redacción de noticias</strong><br />Crit. 3.1. Redactar textos periodísticos con coherencia y corrección.<br /><strong>Creación del Periódico (Canva)</strong><br />Crit. 5.2. Utilizar herramientas digitales para la creación de contenidos.<br /><strong>Grabación de Podcast</strong><br />Crit. 2.1. Expresarse oralmente con claridad y fluidez en diferentes soportes.<br /><br /></p>
+<p>Competencias Específicas: Competencia en Comunicación Lingüística (CCL) y Competencia Digital (CD).<br />Atención a la Diversidad: Se permiten diferentes formatos (audio o texto) para que todos los alumnos puedan participar según sus capacidades (Pautas DUA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778106919226-v11pd822m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📋 Relación de Tareas y Criterios de Evaluación<br />Tarea del Alumno y Criterio de Evaluación Asociado<br /><strong>Búsqueda de información</strong><br />Crit. 1.2. Localizar, seleccionar y contrastar información de distintas fuentes.<br /><strong>Redacción de noticias</strong><br />Crit. 3.1. Redactar textos periodísticos con coherencia y corrección.<br /><strong>Creación del Periódico (Canva)</strong><br />Crit. 5.2. Utilizar herramientas digitales para la creación de contenidos.<br /><strong>Grabación de Podcast</strong><br />Crit. 2.1. Expresarse oralmente con claridad y fluidez en diferentes soportes.<br /><br /></p>\n<p>Competencias Específicas: Competencia en Comunicación Lingüística (CCL) y Competencia Digital (CD).<br />Atención a la Diversidad: Se permiten diferentes formatos (audio o texto) para que todos los alumnos puedan participar según sus capacidades (Pautas DUA).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movpps2o-3jsnatimo</odePageId>
+      <odeBlockId>block-1778107212436-tukcacode</odeBlockId>
+      <blockName>RÚBRICA DE EVALUACIÓN DEL PRODUCTO FINAL</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2o-3jsnatimo</odePageId>
+          <odeBlockId>block-1778107212436-tukcacode</odeBlockId>
+          <odeIdeviceId>idevice-1778107212433-vwtv293mw</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778107212433-vwtv293mw" title="" href="{{context_path}}/content/resources/rúbrica de proyectol.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/rúbrica de proyectol.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778107212433-vwtv293mw","img_0":{"img":"{{context_path}}/content/resources/rúbrica de proyectol.png","thumbnail":"{{context_path}}/content/resources/rúbrica de proyectol.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpps2p-8nxmce15f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpps2p-8nxmce15f</odePageId>
+      <odeBlockId>block-1778107950260-yw35qsy5y</odeBlockId>
+      <blockName>CRÉDITOS DEL PROYECTO</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2p-8nxmce15f</odePageId>
+          <odeBlockId>block-1778107950260-yw35qsy5y</odeBlockId>
+          <odeIdeviceId>idevice-1778107950254-t0slc3rh9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Yésica Aragüez Soler<br />Descripción: Proyecto educativo creado con eXeLearning sobre Periodismo Digital y creación de Podcast para el aula.<br />Licencia de uso: Este material se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA). Esto permite que otros docentes puedan usarlo y adaptarlo siempre que citen la autoría y compartan su versión de la misma forma.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778107950254-t0slc3rh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Yésica Aragüez Soler<br />Descripción: Proyecto educativo creado con eXeLearning sobre Periodismo Digital y creación de Podcast para el aula.<br />Licencia de uso: Este material se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA). Esto permite que otros docentes puedan usarlo y adaptarlo siempre que citen la autoría y compartan su versión de la misma forma.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movpps2p-8nxmce15f</odePageId>
+      <odeBlockId>block-1778108262584-dvqpbfn74</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpps2p-8nxmce15f</odePageId>
+          <odeBlockId>block-1778108262584-dvqpbfn74</odeBlockId>
+          <odeIdeviceId>idevice-1778108262578-nezqx8owj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La Voz del Cole: Nuestro Periódico y Radio Digital</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">¡Bienvenidos a la Redacción!
+En este proyecto nos vamos a convertir en periodistas por unas semanas. El objetivo es que nuestra clase tenga su propio periódico digital y un programa de radio. No solo vamos a escribir, sino que vamos a crear contenido real que otros podrán leer y escuchar.
+
+¿Qué vamos a hacer exactamente?
+
+Diseñar un periódico en Canva: Aprenderemos a maquetar noticias y a elegir fotos para que nuestro diario quede espectacular.
+
+Grabar podcast con Audacity: Usaremos los micrófonos para grabar entrevistas y noticias con nuestra voz, ¡como en una radio de verdad!
+
+Investigar en la red: Buscaremos información de forma segura y aprenderemos a movernos por internet respetando el trabajo de los demás.
+
+Trabajaremos en equipos, compartiremos ideas y usaremos la tecnología para contar lo que pasa a nuestro alrededor. ¡Preparad vuestros Chromebooks, que empezamos!</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Yésica Aragüez Soler</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
